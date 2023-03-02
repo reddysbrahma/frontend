@@ -27,7 +27,7 @@
     "@types/aws4": "^1.5.1",
     "aws4": "^1.8.0",
     "core-js": "^2.5.7",
-    "ngx-infinite-scroll": "^6.0.1",
+    "ngx-infinite-scroll": "^6.9.1",
     "rxjs": "^6.3.2",
     "zone.js": "^0.8.26"
   },
